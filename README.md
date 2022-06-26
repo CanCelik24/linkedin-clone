@@ -6,6 +6,7 @@ Bootstrap Linkedin Clone" için oluşturulmuştur.
 ## Bootstrap ile Linkedin Clone
 
 - Görsel;
+    ![linkedin-clone-patika](linkedin-clone-patika.png)
 
 
 
